@@ -2,6 +2,9 @@
 
 ![Screenshot](https://raw.githubusercontent.com/SciLor/MashedRunner/master/SciLorsMashedRunnerv4.jpg)
 
+## Sidenode
+[Mashed Fully Loaded Trainer](https://github.com/SciLor/MashedTrainer)
+
 ## ReadMe
 
 You will need the .NET Framework 2.0
